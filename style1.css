@@ -109,7 +109,7 @@ section{
     align-items: center;
     margin: 0 60px;
     margin-top: 10px;
-    margin-left: -50px; /* Adds horizontal space between the columns */
+    margin-left: -50px; 
 }
 .explore{
     width: 100%;
